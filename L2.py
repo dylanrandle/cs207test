@@ -29,8 +29,6 @@ def L2(v, *args):
     
     EXAMPLES
     ========
-    >>> L2([1,2], [0,0])
-    0.0   
  
     """
     s = 0.0 # Initialize sum
