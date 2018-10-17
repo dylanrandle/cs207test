@@ -30,8 +30,8 @@ def L2(v, *args):
     EXAMPLES
     ========
     >>> L2([1,2], [1,1])
-    2.23606797749979
-    
+    2.2360679774997898   
+ 
     """
     s = 0.0 # Initialize sum
     if len(args) == 0: # No weight vector
