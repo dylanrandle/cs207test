@@ -1,6 +1,6 @@
 import pytest
 import numpy as np
-from toy_L2 import L2
+from L2 import L2
 
 
 def test_L2_result():
